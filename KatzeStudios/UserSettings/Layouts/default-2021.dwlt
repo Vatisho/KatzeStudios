@@ -325,14 +325,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Diego\Desktop\UNIVA\Proyectos de equipo\55\KatzeStudios\KatzeStudios
+  m_LastProjectPath: C:\Users\Diego\Desktop\UNIVA\Proyectos de equipo\54\KatzeStudios\KatzeStudios
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 266d0000
-    m_LastClickedID: 27942
-    m_ExpandedIDs: 00000000266d000000ca9a3b
+    m_SelectedIDs: c67f0000
+    m_LastClickedID: 32710
+    m_ExpandedIDs: 00000000c67f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,7 +490,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 32fbffff
+      m_ExpandedIDs: 5ad3ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
